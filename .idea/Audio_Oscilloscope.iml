@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../Programmieren1 SoSe26 Abschlussprojekt">
+      <sourceFolder url="file://$MODULE_DIR$/../Programmieren1 SoSe26 Abschlussprojekt/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../Programmieren1 SoSe26 Abschlussprojekt/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="~/PycharmProjects/Programmieren1 SoSe26 Abschlussprojekt/.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings" />
+  <component name="PyDocumentationSettings" />
+  <component name="ReSTService" />
+  <component name="TestRunnerService" />
+</module>
